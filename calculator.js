@@ -20,5 +20,12 @@
   else if(event.key==="Delete"){
     blanck();
   }
+  else if(event.key==="Escape"){
+    blanck();
+  }
+  else if(event.key==="C"){
+    blanck();
+  
+  }
     console.log(event.key);
  })
