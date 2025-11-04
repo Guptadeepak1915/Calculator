@@ -23,7 +23,7 @@
   else if(event.key==="Escape"){
     blanck();
   }
-  else if(event.key==="C"){
+  else if(event.key==="c"){
     blanck();
   
   }
